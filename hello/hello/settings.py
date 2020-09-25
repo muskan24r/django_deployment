@@ -26,7 +26,7 @@ SECRET_KEY = '8zg+pi4%2mt$^^rouym_y&ni5p*mg=o_%u6rc2=%wf-!z4__et'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['muskan24r.pythonanywhere.com']
 
 
 # Application definition
